@@ -244,3 +244,11 @@ margin-left: 17px;}
 
 .spot  {margin-top: -17px;
     margin-left: 17px;}
+
+    .container{
+      width:100%;
+      height: 70px;
+      background: #fff;
+      display: flex;
+      margin-top:42px;
+      justify-content: center;
