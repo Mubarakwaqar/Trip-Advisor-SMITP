@@ -245,10 +245,33 @@ margin-left: 17px;}
 .spot  {margin-top: -17px;
     margin-left: 17px;}
 
-    .container{
-      width:100%;
-      height: 70px;
-      background: #fff;
-      display: flex;
-      margin-top:42px;
-      justify-content: center;
+
+.maincontainer {width: 100% ;
+  height: 70px;
+  display: flex;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  justify-content: center;
+}
+
+.small_box {display: inline;
+width: 140px; 
+border: 2px solid #000;
+border-radius: 10px;
+height: 50px;
+padding: 10px;
+font-weight: 400;}
+
+.mx-20{
+  margin-left:10px;
+  margin-right:10px;}
+
+.float-left {float: left; }
+.float-right {float: right;
+}
+
+a:link {
+  text-decoration: none;}
+
+.small_box:hover {background-color: #000;}
+
